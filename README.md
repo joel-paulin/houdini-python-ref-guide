@@ -6,6 +6,7 @@ It is a:
 ✅ Quickstart to Python development in Houdini, so you can get the ball rolling.<br>
 ✅ Central location for storing useful tricks and examples related to the Houdini Python API.<br>
 ✅ Collection of scripts, hip files, and HDAs to serve as examples, so you can get your hands dirty.<br>
+✅ My main reference and storage location for Houdini Python knowledge, that you hopefully benefit from too!
 
 What is it not?
 
