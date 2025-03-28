@@ -10,13 +10,14 @@ It is a:
 
 What is it not?
 
-❌ An introduction to programming or Python for Houdini artists. There’s plenty of great training out there already.<br>
+❌ An introduction to programming or Python for Houdini artists. There’s plenty of great [training][3] out there already.<br>
 ❌ A hub for storing pipeline or production-oriented tools for Houdini.<br>
 
-Jump to the [wiki][2] to start learning.
+Jump to the [wiki][2] to get started.
 
 [1]: <https://www.sidefx.com/docs/houdini/hom/hou/index.html> "hou package"
 [2]: <https://github.com/joel-paulin/houdini-python-ref-guide/wiki> "wiki"
+[3]: <https://github.com/joel-paulin/houdini-python-ref-guide/wiki#training-material-for-python-in-houdini> "training material"
 
 
 
